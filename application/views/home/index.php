@@ -5,13 +5,12 @@
         <div class="col mt-5">
             <div class="vertical-center">
                 <h1 class="mt-5">CYRDODI</h1>
-                <img src="<?= base_url('assets/img/big.jpg') ?>" class="img-responsive" style="max-width: 600px">
+                <p>Web Developer</p>
+                <img src="<?= base_url('assets/img/big.jpg') ?>" class="img-responsive" style="max-width: 300px">
                 <div class="row mt-2">
                     <div class="col">
-                        <a href="" class="text-dark"><i class="lab la-github la-2x"></i></a>
-                        <a href="" class="text-dark"><i class="lab la-instagram la-2x"></i></a>
-
-
+                        <a href="https://github.com/cyrdodi" class="text-dark"><i class="fab fa-github fa-lg"></i></a>
+                        <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cdoditri@gmail.com&tf=1" class="text-dark"><i class="fas fa-envelope fa-lg"></i></a>
                     </div>
                 </div>
 
