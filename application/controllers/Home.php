@@ -15,4 +15,12 @@ class Home extends CI_Controller
         $this->load->view('home/index');
         $this->load->view('templates/footer');
     }
+
+    public function portofolio()
+    {
+        $data['judul'] = 'CYRDODI';
+        $this->load->view('templates/header', $data);
+        $this->load->view('home/portofolio');
+        $this->load->view('templates/footer');
+    }
 }
